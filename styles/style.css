@@ -1,0 +1,28 @@
+.header-left {
+    display: grid;
+    grid-template-columns: auto auto;
+    font-size: 13px;
+    position: fixed;
+    top: 0;
+    left: 5;
+}
+.header-links {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 16px;
+    padding-top: 9px;
+}
+.logo {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    margin-top: -46px;
+    margin-left: -136px;
+}
+.search-box {
+    position: fixed;
+    top: 43%;
+    left: 45%;
+    width: 350px;
+    height: 25px;
+    border-radius: 20%;
+}
